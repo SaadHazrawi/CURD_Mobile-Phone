@@ -1,0 +1,12 @@
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\bin\Debug\net6.0\PhoneDomin.deps.json
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\bin\Debug\net6.0\PhoneDomin.dll
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\bin\Debug\net6.0\PhoneDomin.pdb
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\PhoneDomin.csproj.AssemblyReference.cache
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\PhoneDomin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\PhoneDomin.AssemblyInfoInputs.cache
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\PhoneDomin.AssemblyInfo.cs
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\PhoneDomin.csproj.CoreCompileInputs.cache
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\PhoneDomin.dll
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\refint\PhoneDomin.dll
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\PhoneDomin.pdb
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\PhoneDomin\obj\Debug\net6.0\ref\PhoneDomin.dll

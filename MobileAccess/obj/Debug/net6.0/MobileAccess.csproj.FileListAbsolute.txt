@@ -1,0 +1,17 @@
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\bin\Debug\net6.0\MobileAccess.deps.json
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\bin\Debug\net6.0\MobileAccess.runtimeconfig.json
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\bin\Debug\net6.0\MobileAccess.dll
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\bin\Debug\net6.0\MobileAccess.pdb
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\bin\Debug\net6.0\PhoneDomin.dll
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\bin\Debug\net6.0\PhoneDomin.pdb
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.csproj.AssemblyReference.cache
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.AssemblyInfoInputs.cache
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.AssemblyInfo.cs
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.csproj.CoreCompileInputs.cache
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.csproj.CopyComplete
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.dll
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\refint\MobileAccess.dll
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.pdb
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\MobileAccess.genruntimeconfig.cache
+C:\Users\ALWAFER\source\repos\Curd_ForMobilePhone\MobileAccess\obj\Debug\net6.0\ref\MobileAccess.dll
